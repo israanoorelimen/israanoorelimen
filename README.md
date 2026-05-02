@@ -23,9 +23,9 @@
 <img align="right" width="300" src="https://media1.tenor.com/m/sBocndhZMKQAAAAd/sun-rong-daily-life-of-the-immortal-king.gif" />
 
 ```
-> whoami
+> who am I?
 
-  Israa — student of machines
+  Israa Noor elImen — student of machines
   and the questions they can't answer yet.
 
   Studying  : Computer Science @ USTHB
